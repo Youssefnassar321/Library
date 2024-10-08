@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MTI\\source\\repos\\Library Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|c:\\users\\mti\\source\\repos\\library task\\library task\\classes\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\classes\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\classes\\authorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\classes\\authorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\forms\\authors\\updateauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\forms\\authors\\updateauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\forms\\authors\\updateauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\forms\\authors\\updateauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\forms\\authors\\addauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\forms\\authors\\addauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\forms\\authors\\addauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\forms\\authors\\addauthorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|C:\\Users\\MTI\\source\\repos\\Library Task\\library task\\interfaces\\iauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A9664-2A1E-4DB7-ADC1-65E95C963800}|Library Task\\Library Task.csproj|solutionrelative:library task\\interfaces\\iauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Interfaces\\IBook.cs",
+              "RelativeDocumentMoniker": "Library Task\\Interfaces\\IBook.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Interfaces\\IBook.cs",
+              "RelativeToolTip": "Library Task\\Interfaces\\IBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:17:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Classes\\Connection.cs",
+              "RelativeDocumentMoniker": "Library Task\\Classes\\Connection.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Classes\\Connection.cs",
+              "RelativeToolTip": "Library Task\\Classes\\Connection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:04:18.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateAuthorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs",
+              "RelativeDocumentMoniker": "Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs",
+              "RelativeToolTip": "Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAApwBYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:13:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateAuthorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs",
+              "RelativeDocumentMoniker": "Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs [Design]",
+              "RelativeToolTip": "Library Task\\Forms\\Authors\\UpdateAuthorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:13:23.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddAuthorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\AddAuthorsForm.cs",
+              "RelativeDocumentMoniker": "Library Task\\Forms\\Authors\\AddAuthorsForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\AddAuthorsForm.cs",
+              "RelativeToolTip": "Library Task\\Forms\\Authors\\AddAuthorsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:08:20.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAuthorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\AddAuthorsForm.cs",
+              "RelativeDocumentMoniker": "Library Task\\Forms\\Authors\\AddAuthorsForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Forms\\Authors\\AddAuthorsForm.cs [Design]",
+              "RelativeToolTip": "Library Task\\Forms\\Authors\\AddAuthorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:08:18.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookClass.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Classes\\BookClass.cs",
+              "RelativeDocumentMoniker": "Library Task\\Classes\\BookClass.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Classes\\BookClass.cs",
+              "RelativeToolTip": "Library Task\\Classes\\BookClass.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowKkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:57:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorClass.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Classes\\AuthorClass.cs",
+              "RelativeDocumentMoniker": "Library Task\\Classes\\AuthorClass.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Classes\\AuthorClass.cs",
+              "RelativeToolTip": "Library Task\\Classes\\AuthorClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:55:11.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Interfaces\\IAuthor.cs",
+              "RelativeDocumentMoniker": "Library Task\\Interfaces\\IAuthor.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\Library Task\\Library Task\\Interfaces\\IAuthor.cs",
+              "RelativeToolTip": "Library Task\\Interfaces\\IAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:55:07.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
